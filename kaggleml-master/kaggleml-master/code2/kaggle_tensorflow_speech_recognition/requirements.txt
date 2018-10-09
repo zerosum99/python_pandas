@@ -1,0 +1,7 @@
+numpy==1.13.3
+pandas==0.20.3
+librosa==0.5.1
+scikit-image==0.12.3
+tqdm==4.23.0
+torch==0.4.1
+torchvision==0.2.1
