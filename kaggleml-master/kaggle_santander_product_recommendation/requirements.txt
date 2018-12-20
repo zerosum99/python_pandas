@@ -1,0 +1,7 @@
+ipython==6.2.1
+numpy==1.13.1
+pandas==0.22.0
+jupyter==1.0.0
+xgboost==0.6a2
+seaborn==0.8.0
+matplotlib==2.0.2
